@@ -1,0 +1,55 @@
+body {
+	margin-top: 50px;
+}
+
+h2 {
+	color: #3B5A76; 
+}
+
+.row {
+	margin-top: 30px; 
+}
+
+#my-name {
+	color: #3B5A76;
+	font-weight: bold;
+}
+
+.jumbotron {
+	margin: 100px auto 0 auto;
+	text-align: center;
+}
+
+.jumbotron img {
+	height: 200px;
+	margin-top: -150px;
+}
+
+#contact-info li {
+	margin: 20px 0;
+	list-style: none;
+}
+
+.bg-education {
+	background-color: #EDEDED;
+	padding: 10px;
+	border-radius: 5px;
+}
+.media-left {
+	width: 120px !important;
+}
+
+#project-list li {
+	list-style: none;
+	float: left;
+	margin: 20px 10px;
+}
+
+footer {
+	height: 50px;
+	line-height: 50px;
+	margin-top: 30px;
+	text-align: center;
+	color: #fff;
+	background-color: #3B5A76;
+}
